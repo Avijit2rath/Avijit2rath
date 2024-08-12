@@ -7,7 +7,7 @@ On the frontend, I specialize in Next.js and React, creating dynamic and respons
 Beyond that, I’ve dabbled in Webflow and Wix for rapid prototyping and website design. And when it comes to creating interactive prototypes or animations, Framer is a tool I enjoy exploring.
 
 Feel free to reach out if you have any questions or need assistance with your projects!
-<p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub represent my journey :running_man: - I’m the Founder and CEO of Encoderbytes Pvt Ltd and I enjoy building high quality software products and services across the globe. Moreover, I’m a computer scientist, software engineer by profession and entrepreneur by passion. 
+<p align="center"><h1>Happy to see you here</h1> The green dots on my GitHub represent my journey :running_man: - I’m the Founder and CEO of 99 Graphics Design Pvt Ltd and I enjoy building high quality software products and services across the globe. Moreover, I’m a computer scientist, software engineer by profession and entrepreneur by passion. 
 <br/><br/>
 My Work Experience:
 <br/>
